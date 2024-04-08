@@ -12,7 +12,9 @@ Community-driven: Just as the platypus has captured the imagination of people ar
 
 Semi-Aquatic Spirit: Like the platypus navigating both land and water, PLATY PUSAI embraces versatility. It thrives in various ecosystems of the crypto world, from trading platforms to meme communities, adapting and evolving along the way.
 
-Innovative Technology: Built on the Solana blockchain, PLATY PUSAI leverages cutting-edge technology to ensure fast transactions and low fees, providing users with a seamless and efficient experience.
+Innovative Technology: Built on the Solana blockchain, PLATY PUSAI leverages cutting-edge technology to ensure fast transactions and low fees, providing users with a seamless and efficient experience. PlatypusAI showcases various projects that combine AI and blockchain technology. Notable repositories include pusaiNLP, which focuses on Natural Language Programming and imagination generation, and Platypus for fine-tuning large language models using LoRA. There's also arb, an Advanced Reasoning Benchmark Dataset for LLMs, and Rhodium, a Python library for robust decision-making. Each project contributes to the overarching goal of integrating AI advancements with blockchain, fostering innovative solutions in this interdisciplinary field.
+
+PLATY PUSAI (c) platypusai is built upon the seminal work of <a href="https://huggingface.co/datasets/garage-bAInd/Open-Platypus">open-platypus</a> dataset research and is contininuing research into open language models suitable for training with the platypusai blockchain dataset celebrating AI with blockchain technology. The orignal <a href="https://arxiv.org/abs/2308.07317">Platypus</a> has shown that further training will greatly enhance platypusai into a leading force for further cryptocurrency adoption.  
 
 Conservation-minded: In homage to its inspiration, PLATY PUSAI is committed to supporting environmental conservation efforts. 1.1% of the PLATY PUSAI is decidated to conservation efforts to maintain biodiversity and sutainable Platypus habitat.
 
