@@ -10,7 +10,7 @@ Features:
 
 Unique Concept: [PLATY PUSAI](https://raydium.io/swap/?inputCurrency=sol&outputCurrency=Joxg59odwJ9AdWkRzj4w4FqFmGMnbWtozhBjb5oQeq6) draws inspiration from <a href="https://arxiv.org/abs/2308.07317">platypus</a>, a semiaquatic mammal known for its unusual appearance and intriguing features. This uniqueness sets it apart from other memecoins in the market.
 
-Community-driven: Just as the platypus has captured the imagination of people around the world, PLATY PUSAI aims to build a vibrant and engaged community of enthusiasts who share a love for memes, crypto, AI and fun.
+Community-driven: Just as the platypus has captured the imagination of people around the world, PLATY PUSAI aims to build a vibrant and engaged <a href="https://t.me/platpsai">community</a> of enthusiasts who share a love for memes, crypto, AI and fun.
 
 Semi-Aquatic Spirit: Like the platypus navigating both land and water, <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=Joxg59odwJ9AdWkRzj4w4FqFmGMnbWtozhBjb5oQeq6">PLATY PUSAI</a> embraces versatility. It thrives in various ecosystems of the crypto world, from trading platforms to meme communities, adapting and evolving along the way.
 
