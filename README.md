@@ -1,12 +1,12 @@
 # PLATY PUSAI
 
-platypusai is a rationally interactive local language model designed to faciliate maching learning, growth and optimization
+<a href="https://huggingface.co/platypusai">platypusai</a> is a rationally interactive local language model designed to faciliate maching learning, growth and optimization
 
-"PLATY PUSAI" is a Solana-based memecoin inspired by the quirky and fascinating nature of the platypus. Just like its namesake, PLATY PUSAI seeks to stand out in the cryptocurrency market with its distinctive characteristics and playful appeal. PLATY PUSAI (c) platypusai 2024 is designed to raise awareness about the potential of machine learning as an augmention tool. PLATY is the platform and PUSAI is the interface. Together PLATY and PUSAI create platypusai. platypusai is a based on the seminal work of the original open-platypus project. platypusai uses the MIT licence where applicable and adheres to all of the open source licencing as required.
+<a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=Joxg59odwJ9AdWkRzj4w4FqFmGMnbWtozhBjb5oQeq6">PLATY PUSAI</a> is a Solana-based memecoin inspired by the quirky and fascinating nature of the platypus. Just like its namesake, PLATY PUSAI seeks to stand out in the cryptocurrency market with its distinctive characteristics and playful appeal. <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=Joxg59odwJ9AdWkRzj4w4FqFmGMnbWtozhBjb5oQeq6">PLATY PUSAI</a> (c) platypusai 2024 is designed to raise awareness about the potential of machine learning as an augmention tool. PLATY is the platform and PUSAI is the interface. Together PLATY and PUSAI create platypusai. platypusai is a based on the seminal work of the original open-platypus project. platypusai uses the MIT licence where applicable and adheres to all of the open source licencing as required.
 
 Features:
 
-Unique Concept: PLATY PUSAI draws inspiration from the platypus, a semiaquatic mammal known for its unusual appearance and intriguing features. This uniqueness sets it apart from other memecoins in the market.
+Unique Concept: [PLATY PUSAI](https://raydium.io/swap/?inputCurrency=sol&outputCurrency=Joxg59odwJ9AdWkRzj4w4FqFmGMnbWtozhBjb5oQeq6) draws inspiration from <a href="https://arxiv.org/abs/2308.07317">platypus</a>, a semiaquatic mammal known for its unusual appearance and intriguing features. This uniqueness sets it apart from other memecoins in the market.
 
 Community-driven: Just as the platypus has captured the imagination of people around the world, PLATY PUSAI aims to build a vibrant and engaged community of enthusiasts who share a love for memes, crypto, AI and fun.
 
